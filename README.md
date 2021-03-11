@@ -5,15 +5,20 @@
 
 ## Installation
 
-    $ git clone git@github.com:OCA/maintainer-tools.git
+    $ git clone git@github.com:waalo-fenixdoo/maintainer-tools.git
     $ cd maintainer-tools
     $ virtualenv env
     $ . env/bin/activate
     $ python setup.py install
 
 Alternatively if using pipx.
+<<<<<<< HEAD
 
     $ git clone git@github.com:OCA/maintainer-tools.git
+=======
+    
+    $ git clone git@github.com:waalo-fenixdoo/maintainer-tools.git
+>>>>>>> Update README.md
     $ pipx install ./maintainer-tools
 
 ## OCA repositories tools
@@ -167,7 +172,7 @@ You can delete vim comment
 As a developer, you want to launch the scripts without installing the
 egg.
 
-    $ git clone git@github.com:OCA/maintainer-tools.git
+    $ git clone git@github.com:waalo-fenixdoo/maintainer-tools.git
     $ cd maintainer-tools
     $ virtualenv env
     $ . env/bin/activate

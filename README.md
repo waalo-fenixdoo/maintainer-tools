@@ -12,13 +12,8 @@
     $ python setup.py install
 
 Alternatively if using pipx.
-<<<<<<< HEAD
-
-    $ git clone git@github.com:OCA/maintainer-tools.git
-=======
     
     $ git clone git@github.com:waalo-fenixdoo/maintainer-tools.git
->>>>>>> Update README.md
     $ pipx install ./maintainer-tools
 
 ## OCA repositories tools

@@ -45,7 +45,7 @@ setuptools.setup(
         'twine',
         'wheel',
     ],
-    python_requires='>=3.6',
+    python_requires='>=3.8',
     classifiers=[
         'Development Status :: 4 - Beta',
         'Environment :: Console',
